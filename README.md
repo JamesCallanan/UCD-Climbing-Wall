@@ -5,8 +5,11 @@
 1. Relevant holds are encircled or marked by a line underneath them
 
 🟢🟢🟢🟢 Start hand hold(s) = green 🟢🟢🟢🟢
+
 🔴🔴🔴🔴 Topout hold(s) = red 🔴🔴🔴🔴
+
 🔵🔵🔵🔵 Intermediate holds = blue 🔵🔵🔵🔵
+
 🟡🟡🟡🟡 Foot only holds = yellow 🟡🟡🟡🟡
 
 2. All problems start two handed on the designated start hold or holds and finish on the designated finish hold or holds.
@@ -28,8 +31,11 @@
 Remember!
 
 🟢🟢🟢🟢 Start hand hold(s) = green 🟢🟢🟢🟢
+
 🔴🔴🔴🔴 Topout hold(s) = red 🔴🔴🔴🔴
+
 🔵🔵🔵🔵 Intermediate holds = blue 🔵🔵🔵🔵
+
 🟡🟡🟡🟡 Foot only holds = yellow 🟡🟡🟡🟡
 
 3. Add your climb to the folder corresponding to the grade you are giving your climb. You may need to make a directory if this is the first boulder of that grade.
