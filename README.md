@@ -4,10 +4,10 @@
 
 1. Relevant holds are encircled or marked by a line underneath them
 
-🟢🟢🟢🟢🟢🟢 Start hand hold(s) = green 🟢🟢🟢🟢🟢🟢
-🔴🔴🔴🔴🔴🔴 Topout hold(s) = red 🔴🔴🔴🔴🔴🔴
-🔵🔵🔵🔵🔵🔵 Intermediate holds = blue 🔵🔵🔵🔵🔵🔵
-🟡🟡🟡🟡🟡🟡 Foot only holds = yellow 🟡🟡🟡🟡🟡🟡
+🟢🟢🟢🟢 Start hand hold(s) = green 🟢🟢🟢🟢
+🔴🔴🔴🔴 Topout hold(s) = red 🔴🔴🔴🔴
+🔵🔵🔵🔵 Intermediate holds = blue 🔵🔵🔵🔵
+🟡🟡🟡🟡 Foot only holds = yellow 🟡🟡🟡🟡
 
 2. All problems start two handed on the designated start hold or holds and finish on the designated finish hold or holds.
 
