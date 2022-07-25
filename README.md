@@ -23,7 +23,7 @@
 
 4. If you send a climb and disagree with the grade given. Feel free to make an issue, reference the climb, the wall it is on and its current grade. If many agree with you the grade may be changed.
 
-## How to contribute
+## How to add a climb
 
 1. Make a copy of the relevant template photo (i.e. 'Barrel Template.jpg' or 'Main Wall Template.jpg')
 2. Mark the holds for your route using a photo editing application of your choice.
@@ -55,9 +55,13 @@ Remember!
 
 """
 
-5. Feel free to add a video of you/someone sending it! We may need to switch to linked videos if GitHub limit repo size.
+5. Feel free to add a video of you/someone sending the climb! We may need to switch to linked videos if GitHub limit repo size.
 
 6. Make a pull request!
    ( Alternatively for those that don't want to learn Git, don't waste your climb! Make an issue with a photo of your route and a suggested grade. You will still need a GitHub account for this, this is easy to create. )
+
+## In Club, familiar with Git and want collaboration access?
+
+Message me, email me, talk to me at training.
 
 # Happy Climbing :)
