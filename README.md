@@ -18,7 +18,7 @@
    3. Feet follow hands + screw-ons on the barrel (Please encircle all screw ons if in)
    4. Hand holds + foot only holds
 
-4. If you send a climb, please comment your perceived grade on the relevent route photo on GitHub. Should the majority of climbers think the climb was graded wrong, a pull request can be made moving the route photo to a new folder corresponding to the new grade.
+4. If you send a climb and disagree with the grade given. Feel free to make an issue, reference the climb, the wall it is on and its current grade. If many agree with you the grade may be changed.
 
 ## How to contribute
 
@@ -34,7 +34,24 @@ Remember!
 
 3. Add your climb to the folder corresponding to the grade you are giving your climb. You may need to make a directory if this is the first boulder of that grade.
 
-4. Make a pull request!
+4. Make a txt file for your climb if you want. This can contain notes about the climb e.g.
+
+"""
+
+        Creator: Janja G
+
+        First Ascent: Janja G
+
+        Grade given: 8b
+
+        Notes:
+        You might want a spotter!
+
+"""
+
+5. Feel free to add a video of you/someone sending it! We may need to switch to linked videos if GitHub limit repo size.
+
+6. Make a pull request!
    ( Alternatively for those that don't want to learn Git, don't waste your climb! Make an issue with a photo of your route and a suggested grade. You will still need a GitHub account for this, this is easy to create. )
 
-Happy Climbing :)
+# Happy Climbing :)
